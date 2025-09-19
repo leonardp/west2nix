@@ -91,11 +91,11 @@
         "zephyr": "zephyr"
       },
       "locked": {
-        "lastModified": 1758305958,
-        "narHash": "sha256-evmO/n+6Y3umCizTTyioCi5qXIchnX8mYIFz47wNFJE=",
+        "lastModified": 1758306172,
+        "narHash": "sha256-7tDzWOmDMHPP+W7zP8lNl0RzehlT4KqqloyJdk9VZ/s=",
         "owner": "leonardp",
         "repo": "zephyr-nix",
-        "rev": "617c8513c5c2bd1c356b28300ae21902b27204e3",
+        "rev": "4793ff7ec3b91e286a9cfa9a4b0fbfd26b8f4c72",
         "type": "github"
       },
       "original": {
